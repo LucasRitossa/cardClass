@@ -1,4 +1,4 @@
 ﻿  cardGame.cpp
-C:\Users\lucas\Documents\git\cardGame\cardGame\cardGame.cpp(190,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\lucas\Documents\git\cardGame\cardGame\cardGame.cpp(100): warning C4715: 'deck::mixDeck': not all control paths return a value
+C:\Users\lucas\Documents\git\cardGame\cardGame\cardGame.cpp(199,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lucas\Documents\git\cardGame\cardGame\cardGame.cpp(107): warning C4715: 'deck::mixDeck': not all control paths return a value
   cardGame.vcxproj -> C:\Users\lucas\Documents\git\cardGame\Debug\cardGame.exe
